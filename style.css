@@ -1,0 +1,39 @@
+body {
+	 
+	background-color: #091923;
+	color: #25fcea;
+	margin: 100px 100px;
+}
+h1	{
+	color: #52ce0a;
+}
+h2 {
+	color: #52ce0a;
+}
+h3 {
+	color: #c4be15;
+}
+#qq {
+	/*color: black;*/
+	width: 650px;
+}
+.pos {
+	color: #e5af32;
+}
+.co {
+	color: #a51dd6;
+}
+.cop {
+	color: #766eb7;
+}
+span.wi {
+	display: inline-block;
+	width: 135px;
+	/*border: 1px solid #ff0000;*/
+	/*padding-right: 20px;*/
+	margin-right: 20px;
+}
+/*#ss {
+	width: 600px;
+	border: 1px solid #ff0000;
+}*/
